@@ -1,0 +1,17 @@
+1. pastikan library sudah terinstal cek di file train.py dan faces.py
+2. pastikan sudah menginstall xampp 
+3. import database facerecognition.sql ke phpmyadmin
+4. jalankan file main.py
+
+tambahan...
+untuk melakukan train data baru dengan wajah kalian
+buka folder data/ buat nama kalian
+
+lakukan rekam vidio seperti dicontoh geleng2 , ngangguk, wajah kiri kanan (untuk
+merekam pakai script kemarin)
+
+rekaman film taruh di file data/buat nama kalian/
+buka file split.py dan run untuk melakukan split vidio ke gambar
+
+untuk contoh deteksi mata menggunkaan salah satu haar run file eye_detection.ipynb 
+
